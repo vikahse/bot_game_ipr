@@ -4,7 +4,6 @@ from service import *
 from main import bot, manager
 from take_photo import *
 # from sqlalchemy.exc import PendingRollbackError, IntegrityError
-from models import *
 from datetime import datetime
 
 
